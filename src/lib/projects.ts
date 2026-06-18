@@ -69,7 +69,7 @@ export const projects: Project[] = [
     title: "Project 8",
     description: "Creative project — click to explore",
     image: "/project8.png",
-    url: "https://amitprojectt18.vercel.app/",
+    url: "https://amitproject8.vercel.app/",
     colors: ["#1a1a1a", "#3a3a3a"],
   },
   {
